@@ -22,6 +22,8 @@ why pay a six figure salary to a live human expert whose expertise you only need
 
 wow.. that's a tangent, or at least a rambling digression,  I did not intend but all that is to say, the project is reffered to variously and inconsistently as either mailGPT or emaiLLM, and eventually will be known as Sam or Dave or Bob or whataver they wish to be called. 
 
+this all definitrly belongs in some other document that this Requirements doc. :-/
+
 ---
 
 
